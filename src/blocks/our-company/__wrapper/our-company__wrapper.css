@@ -1,0 +1,6 @@
+.our-company__wrapper{
+    width: 100%;
+    max-width: 1180px;
+    justify-content: space-between;
+    display: flex;
+}

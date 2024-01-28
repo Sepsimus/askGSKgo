@@ -1,0 +1,12 @@
+.our-company__video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 680px;
+    width: 100%;
+    min-height: 370px;
+    background-image: url(../../../image/our-company__video.png);
+    background-size: cover;
+    border: 0;
+    border-radius: 5px;
+}

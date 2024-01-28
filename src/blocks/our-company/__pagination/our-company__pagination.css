@@ -1,0 +1,7 @@
+.our-company__pagination{
+    position: relative;
+    bottom: -85px;
+    display: flex;
+    width: 50px;
+    justify-content: space-between;
+}

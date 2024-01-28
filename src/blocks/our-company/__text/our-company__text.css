@@ -1,0 +1,12 @@
+.our-company__text{
+    font-weight: normal;
+    color: #000000;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: left;
+    font-style: normal;
+    font-family: 'Nunito', sans-serif;
+    margin-left: 50px;
+    margin-bottom: 106px;
+    max-width: 380px;
+}

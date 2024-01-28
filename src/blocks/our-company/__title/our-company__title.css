@@ -1,0 +1,10 @@
+.our-company__title{
+    margin: 0;
+    font-weight: 500;
+    color: #000000;
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+    font-family: 'FuturaNew', sans-serif;
+    margin-bottom: 20px;
+}
