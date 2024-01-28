@@ -15,11 +15,11 @@ function Header() {
                 <div className='header__wrapper header__wrapper_short'>
                     <div className='header__call-wrapper'>
                         <p className='header__number'>8&nbsp;800&nbsp;345&nbsp;45&nbsp;67</p>
-                        <p className='header__link'>Заказать звонок</p>
+                        <a className='header__link' href="#">Заказать звонок</a>
                     </div>
                     <div className='header__language-wrapper'>
-                        <p className='header__button header__button_ru header__button_inactive'>Ru</p>
-                        <p className='header__button header__button_en'>En</p>
+                        <a className='header__button header__button_ru header__button_inactive'  href="#">Ru</a>
+                        <a className='header__button header__button_en'  href="#">En</a>
                     </div>
                 </div>
             </div>

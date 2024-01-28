@@ -1,0 +1,27 @@
+.cover{
+    z-index: 1;
+    position: relative;
+    top: -96px;
+    max-width: 1440px;
+    width: 100%;
+    min-height: 720px;
+    background-image: url(../../image/cover__background.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cover::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.47;
+    z-index: -1;
+    transition: opacity 0.35s ease 0s;
+    background-color: #000000;
+}

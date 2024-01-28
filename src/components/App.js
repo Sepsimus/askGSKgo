@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter } from 'react-router-dom'; 
-import Header from './Header';
+import Header from './Header'; 
+import Cover from './Cover';
 import Footer from './Footer';
 
 // import logo from './logo.svg';
@@ -12,6 +13,7 @@ function App() {
     <div className="substrate">
       <div className="page">
           <Header />
+          <Cover />
           {/* <Footer /> */}
       </div>
     </div>

@@ -21,3 +21,19 @@
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face{
+    src: url(../vendor/font/FuturaNewBold-Reg.woff) format('woff'),
+        url(../vendor/font/FuturaNewBold-Reg.woff2) format('woff2');
+    font-family: "FuturaNew";
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face{
+    src: url(../vendor/font/FuturaNewMedium-Reg.woff) format('woff'),
+        url(../vendor/font/FuturaNewMedium-Reg.woff2) format('woff2');
+    font-family: "FuturaNew";
+    font-weight: 500;
+    font-style: normal;
+}

@@ -26,3 +26,8 @@ body{
 @import url(./blocks/header/__list-elem/header__list-elem.css);
 @import url(./blocks/header/__list-link/header__list-link.css);
 @import url(./blocks/header/__list/header__list.css);
+
+@import url(./blocks/cover/cover.css);
+@import url(./blocks/cover/__button/cover__button.css);
+@import url(./blocks/cover/__subtitle/cover__subtitle.css);
+@import url(./blocks/cover/__title/cover__title.css);

@@ -5,6 +5,7 @@
     color: #FFFFFF;
     margin: auto 0;
     font-style: normal;
+    text-decoration: none;
 }
 
 .header__button:first-child::after{
