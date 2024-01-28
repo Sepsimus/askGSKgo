@@ -20,3 +20,9 @@ body{
 @import url(./blocks/header/__button/_inactive/header__button_inactive.css);
 @import url(./blocks/header/__wrapper/_long/header__wrapper_long.css);
 @import url(./blocks/header/__wrapper/_short/header__wrapper_short.css);
+@import url(./blocks/header/__nav/header__nav.css);
+@import url(./blocks/header/__top-wrapper/header__top-wrapper.css);
+@import url(./blocks/header/__menu-wrapper/header__menu-wrapper.css);
+@import url(./blocks/header/__list-elem/header__list-elem.css);
+@import url(./blocks/header/__list-link/header__list-link.css);
+@import url(./blocks/header/__list/header__list.css);

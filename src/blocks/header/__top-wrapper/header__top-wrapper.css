@@ -1,0 +1,8 @@
+.header__top-wrapper{
+    height: 54px;
+    background-color: #FFFFFF;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
