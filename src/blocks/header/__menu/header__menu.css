@@ -1,0 +1,27 @@
+.header__menu {
+    border-top: 2px solid #156A75;
+    width: 40px;
+    height: 20px;
+    box-sizing: unset;
+    vertical-align: middle;
+    margin-left: 24px;
+    margin-top: 15px;
+  }
+
+  .header__menu::after{
+    width: 40px;
+    display: block;
+    position: absolute;
+    top: 37px;
+    content: "";
+    border-bottom: 2px solid #156A75;
+  }
+
+  .header__menu::before{
+    width: 40px;
+    display: block;
+    position: absolute;
+    bottom: 26px;
+    content: "";
+    border-bottom: 2px solid #156A75;
+  }

@@ -1,0 +1,7 @@
+.header__language-wrapper{
+    display: flex;
+    justify-content: space-around;
+    background-color: #156A75;
+    width: 100px;
+    height: 54px;
+}

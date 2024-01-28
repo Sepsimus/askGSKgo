@@ -1,0 +1,5 @@
+.header__call-wrapper{
+    width: 301px;
+    display: flex;
+    justify-content: space-between;
+}

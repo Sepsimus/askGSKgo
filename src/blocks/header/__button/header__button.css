@@ -1,0 +1,18 @@
+.header__button{
+    font-weight: 500;
+    font-size: 16px;
+    font-family: 'Nunito', sans-serif;
+    color: #FFFFFF;
+    margin: auto 0;
+    font-style: normal;
+}
+
+.header__button:first-child::after{
+  height: 19px;
+  display: block;
+  position: absolute; 
+  top: 17px;
+  right: 49px;
+  content: "";
+  border-left: 1px solid #FFFFFF;
+}
