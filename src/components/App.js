@@ -5,6 +5,7 @@ import Header from './Header';
 import Cover from './Cover';
 import Cards from './Cards';
 import OurCompany from './OurCompany';
+import Consultation from './Consultation';
 import Footer from './Footer';
 
 // import logo from './logo.svg';
@@ -18,6 +19,7 @@ function App() {
           <Cover />
           <Cards />
           <OurCompany />
+          <Consultation />
           {/* <Footer /> */}
       </div>
     </div>

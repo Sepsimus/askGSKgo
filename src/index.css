@@ -55,3 +55,14 @@ body{
 @import url(./blocks/our-company/__pagination/our-company__pagination.css);
 @import url(./blocks/our-company/__pagination-dot/our-company__pagination-dot.css);
 @import url(./blocks/our-company/__pagination-dot/_active/our-company__pagination-dot_active.css);
+
+
+@import url(./blocks/consultation/consultation.css);
+@import url(./blocks/consultation/__agree/consultation__agree.css);
+@import url(./blocks/consultation/__button/consultation__button.css);
+@import url(./blocks/consultation/__form/consultation__form.css);
+@import url(./blocks/consultation/__input/consultation__input.css);
+@import url(./blocks/consultation/__text/consultation__text.css);
+@import url(./blocks/consultation/__wrapper/consultation__wrapper.css);
+@import url(./blocks/consultation/__title/consultation__title.css);
+@import url(./blocks/consultation/__link/consultation__link.css);

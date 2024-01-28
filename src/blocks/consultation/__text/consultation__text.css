@@ -1,0 +1,10 @@
+.consultation__text{
+    font-weight: normal;
+    color: #FFFFFF;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: left;
+    font-family: 'Nunito', sans-serif;
+    max-width: 338px;
+    margin: 0px;
+}

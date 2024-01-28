@@ -1,0 +1,7 @@
+.consultation__wrapper{
+    display: flex;
+    max-width: 1120px;
+    width: 100%;
+    justify-content: end;
+    margin-left: 50px;
+}

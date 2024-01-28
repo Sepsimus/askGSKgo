@@ -1,0 +1,7 @@
+.consultation__link{
+    text-decoration: underline;
+}
+
+.consultation__link:hover{
+    cursor: pointer;
+}

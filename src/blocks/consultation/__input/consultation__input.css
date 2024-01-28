@@ -1,0 +1,23 @@
+.consultation__input{
+    margin: 0px;
+    padding: 0px;
+    border: 0;
+    background-color: #FFFFFF;
+    padding: 10px 0px 10px 20px;
+    width: 360px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.consultation__input::placeholder{
+    color: #545454;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    font-family: 'Nunito', sans-serif;
+}
+
+.consultation__input:focus{
+    
+}

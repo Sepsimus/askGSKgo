@@ -1,4 +1,8 @@
 .page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: unset;
     position: relative;
     max-width: 1440px;
     min-width: 320px;
