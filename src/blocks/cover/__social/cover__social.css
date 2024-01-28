@@ -1,0 +1,8 @@
+.cover__social{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border: 0px;
+    background-size: cover;
+    position: absolute;
+}
