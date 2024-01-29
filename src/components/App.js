@@ -20,7 +20,7 @@ function App() {
           <Cards />
           <OurCompany />
           <Consultation />
-          {/* <Footer /> */}
+          <Footer />
       </div>
     </div>
   );

@@ -66,3 +66,5 @@ body{
 @import url(./blocks/consultation/__wrapper/consultation__wrapper.css);
 @import url(./blocks/consultation/__title/consultation__title.css);
 @import url(./blocks/consultation/__link/consultation__link.css);
+
+@import url(./blocks/footer/footer.css);
