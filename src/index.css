@@ -68,3 +68,27 @@ body{
 @import url(./blocks/consultation/__link/consultation__link.css);
 
 @import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__address-wrapper/footer__address-wrapper.css);
+@import url(./blocks/footer/__adress-img/footer__adress-img.css);
+@import url(./blocks/footer/__adress/footer__adress.css);
+@import url(./blocks/footer/__company/footer__company.css);
+@import url(./blocks/footer/__creator/footer__creator.css);
+@import url(./blocks/footer/__email-link/footer__email-link.css);
+@import url(./blocks/footer/__link/footer__link.css);
+@import url(./blocks/footer/__list-link/footer__list-link.css);
+@import url(./blocks/footer/__list/footer__list.css);
+@import url(./blocks/footer/__logo/footer__logo.css);
+@import url(./blocks/footer/__map-link/footer__map-link.css);
+@import url(./blocks/footer/__nav/footer__nav.css);
+@import url(./blocks/footer/__policy-wrapper/footer__policy-wrapper.css);
+@import url(./blocks/footer/__policy/footer__policy.css);
+@import url(./blocks/footer/__social-wrapper/footer__social-wrapper.css);
+@import url(./blocks/footer/__social/footer__social.css);
+@import url(./blocks/footer/__social/_facebook/footer__social_facebook.css);
+@import url(./blocks/footer/__social/_inst/footer__social_inst.css);
+@import url(./blocks/footer/__social/_whats-up/footer__social_whats-up.css);
+@import url(./blocks/footer/__social/_youtube/footer__social_youtube.css);
+@import url(./blocks/footer/__text-wrapper/footer__text-wrapper.css);
+@import url(./blocks/footer/__wrapper/footer__wrapper.css);
+@import url(./blocks/footer/__wrapper/_company-info/footer__wrapper_company-info.css);
+@import url(./blocks/footer/__wrapper/_adress/footer__wrapper_adress.css);

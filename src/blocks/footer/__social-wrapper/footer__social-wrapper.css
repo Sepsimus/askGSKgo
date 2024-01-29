@@ -1,0 +1,10 @@
+.footer__social-wrapper{
+    max-width: 220px;
+    width: 100%;
+    display: flex;
+    max-width: 220px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}

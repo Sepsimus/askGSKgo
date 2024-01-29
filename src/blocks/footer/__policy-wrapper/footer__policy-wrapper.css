@@ -1,0 +1,7 @@
+.footer__policy-wrapper{
+    margin-left: 130px;
+    display: flex;
+    max-width: 412px;
+    width: 100%;
+    justify-content: space-between;
+}

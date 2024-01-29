@@ -1,0 +1,16 @@
+.footer__list{
+    max-width: 555px;
+    width: 100%;
+    flex-wrap: wrap;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    justify-content: space-between;
+}
+
+.footer__list:first-of-type{
+    max-width: 369px;
+    width: 100%;
+    margin-bottom: 20px;
+}

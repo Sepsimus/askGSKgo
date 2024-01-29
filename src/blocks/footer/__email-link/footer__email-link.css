@@ -1,0 +1,10 @@
+.footer__email-link{
+    font-weight: normal;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+    margin-bottom: 10px;
+}

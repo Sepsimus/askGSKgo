@@ -1,0 +1,10 @@
+.footer__creator{
+    font-weight: normal;
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+    margin: 17px 130px 17px 0px;
+}
