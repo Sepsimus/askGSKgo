@@ -1,0 +1,9 @@
+.menu__list-link{
+    font-weight: 500;
+    color: #156A75;
+    font-size: 25px;
+    line-height: 25px;
+    text-align: left;
+    font-family: 'FuturaNew', sans-serif;
+    text-decoration: none;
+}

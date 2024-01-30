@@ -1,0 +1,11 @@
+.menu__nav-wrapper{
+    max-width: 467px;
+    width: 100%;
+    display: flex;
+    margin: 56px auto 0 130px;
+    justify-content: space-between;
+}
+
+.menu__nav-wrapper:nth-child(2){
+    margin-top: 66px;
+}

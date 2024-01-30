@@ -1,0 +1,27 @@
+.menu__close {
+    position: absolute;
+    left: 13px;
+    top: 13px;
+    width: 40px;
+    height: 40px;
+    z-index: 3;
+  }
+  .menu__close:before, .menu__close:after {
+    position: absolute;
+    left: 20px;
+    content: ' ';
+    height: 40px;
+    width: 2px;
+    background-color: #156A75;
+  }
+
+  .menu__close:before {
+    transform: rotate(45deg);
+  }
+  .menu__close:after {
+    transform: rotate(-45deg);
+  }
+
+  .menu__close:hover{
+    cursor: pointer;
+  }

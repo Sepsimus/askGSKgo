@@ -1,0 +1,7 @@
+.menu__list-elem{
+    margin-top: 19px;
+}
+
+.menu__list-elem:first-of-type{
+    margin: 0px;
+}

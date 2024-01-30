@@ -1,0 +1,6 @@
+.menu__wrapper{
+    display: flex;
+    flex-direction: column;
+    max-width: 720px;
+    width: 100%;
+}

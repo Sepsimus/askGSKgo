@@ -7,6 +7,7 @@ import Cards from './Cards';
 import OurCompany from './OurCompany';
 import Consultation from './Consultation';
 import Footer from './Footer';
+import Menu from './Menu';
 
 // import logo from './logo.svg';
 // import './App.css';
@@ -21,6 +22,7 @@ function App() {
           <OurCompany />
           <Consultation />
           <Footer />
+          <Menu />
       </div>
     </div>
   );

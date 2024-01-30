@@ -1,0 +1,11 @@
+.menu__general-wrapper{
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    max-width: 1440px;
+    width: 100%;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+}

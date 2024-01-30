@@ -1,0 +1,12 @@
+.menu__address-wrapper {
+    max-width: 295px;
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+    margin: 33px auto 0px 130px;
+}
+
+.menu__address-wrapper:last-of-type{
+    margin-top: 31px;
+    margin-bottom: 54px;
+}

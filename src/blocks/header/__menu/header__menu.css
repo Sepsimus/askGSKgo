@@ -25,3 +25,7 @@
     content: "";
     border-bottom: 2px solid #156A75;
   }
+
+  .header__menu:hover{
+    cursor: pointer;
+  }
