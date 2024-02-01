@@ -1,0 +1,6 @@
+.popup__input_language{
+    appearance: none;
+    background-image: url(../../../../image/popup__input_language.svg);
+    background-repeat: no-repeat;
+    background-position: 95% center;
+}

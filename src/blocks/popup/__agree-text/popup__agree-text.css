@@ -1,0 +1,10 @@
+.popup__agree-text{
+    margin: 0;
+    font-weight: normal;
+    color: #FFFFFF;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: left;
+    font-style: normal;
+    font-family: 'Nunito', sans-serif;
+}

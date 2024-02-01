@@ -8,6 +8,7 @@ import OurCompany from './OurCompany';
 import Consultation from './Consultation';
 import Footer from './Footer';
 import Menu from './Menu';
+import Popup from './Popup';
 
 // import logo from './logo.svg';
 // import './App.css';
@@ -23,6 +24,7 @@ function App() {
           <Consultation />
           <Footer />
           <Menu />
+          <Popup />
       </div>
     </div>
   );

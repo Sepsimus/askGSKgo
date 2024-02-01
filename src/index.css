@@ -110,3 +110,19 @@ body{
 @import url(./blocks/menu/__text-wrapper/menu__text-wrapper.css);
 @import url(./blocks/menu/__wrapper/menu__wrapper.css);
 @import url(./blocks/menu/_opened/menu_opened.css);
+
+@import url(./blocks/popup/popup.css);
+@import url(./blocks/popup/_opened/popup_opened.css);
+@import url(./blocks/popup/__agree-text/popup__agree-text.css);
+@import url(./blocks/popup/__checkbox-wrapper/popup__checkbox-wrapper.css);
+@import url(./blocks/popup/__close/popup__close.css);
+@import url(./blocks/popup/__form/popup__form.css);
+@import url(./blocks/popup/__input/popup__input.css);
+@import url(./blocks/popup/__input/_agree/popup__input_agree.css);
+@import url(./blocks/popup/__input/_language/popup__input_language.css);
+@import url(./blocks/popup/__option/popup__option.css);
+@import url(./blocks/popup/__submit/popup__submit.css);
+@import url(./blocks/popup/__subtitle/popup__subtitle.css);
+@import url(./blocks/popup/__title/_thanks/popup__title_thanks.css);
+@import url(./blocks/popup/__wrapper/popup__wrapper.css);
+@import url(./blocks/popup/__wrapper/_thanks/popup__wrapper_thanks.css);

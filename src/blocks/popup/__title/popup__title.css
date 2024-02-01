@@ -1,0 +1,11 @@
+.popup__title{
+    font-weight: normal;
+    color: #FFFFFF;
+    font-size: 25px;
+    line-height: 25px;
+    text-align: left;
+    font-style: normal;
+    font-family: 'FuturaNew', sans-serif;
+    margin-top: 27px;
+    margin-bottom: 30px;
+}

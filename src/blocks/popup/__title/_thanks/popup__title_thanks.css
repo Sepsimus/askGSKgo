@@ -1,0 +1,12 @@
+.popup__title_thanks{
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 35px;
+    line-height: 35px;
+    text-align: center;
+    font-style: normal;
+    font-family: 'FuturaNew', sans-serif;
+    margin-top: 67px;
+    margin-bottom: 9px;
+}
