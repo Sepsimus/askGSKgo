@@ -10,3 +10,7 @@
     background-color: #4B949E;
     padding: 10px 45px;
 }
+
+.consultation__button:hover{
+    cursor: pointer;
+}

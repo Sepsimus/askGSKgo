@@ -7,3 +7,7 @@
     font-style: normal;
     font-family: 'Nunito', sans-serif;
 }
+
+.popup__option:hover{
+    cursor: pointer;
+}

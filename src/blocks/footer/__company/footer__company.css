@@ -7,4 +7,5 @@
     text-decoration: none;
     font-family: 'Nunito', sans-serif;
     margin: 17px 0px;
+    pointer-events: none;
 }

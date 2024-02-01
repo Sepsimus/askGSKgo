@@ -13,7 +13,7 @@ function Consultation() {
         <input className="consultation__agree" type="checkbox" />
         <p className="consultation__text">
           Нажимая на кнопку, я соглашаюсь на обработку персональных данных, с
-          <a className="consultation__link">Политикой Конфиденциальности</a>
+          <a className="consultation__link"> Политикой Конфиденциальности</a>
           {' '}
           ознакомлен
         </p>

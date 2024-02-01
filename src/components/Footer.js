@@ -52,7 +52,7 @@ function Footer() {
           <a className="footer__policy" href="#">Политика конфиденциальности</a>
         </div>
         <p className="footer__creator">
-          Сайт разработан
+          Сайт разработан &nbsp;
           <a className="footer__link" href="https://github.com/Sepsimus/">Sepsimus</a>
         </p>
       </div>

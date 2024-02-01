@@ -8,4 +8,5 @@
     font-family: 'FuturaNew', sans-serif;
     margin-top: 27px;
     margin-bottom: 30px;
+    pointer-events: none;
 }

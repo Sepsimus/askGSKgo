@@ -11,3 +11,7 @@
     border-radius: 5px;
     background-color: #4B949E;
 }
+
+.our-company__button:hover{
+    cursor: pointer;
+}

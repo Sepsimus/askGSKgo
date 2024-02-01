@@ -8,4 +8,5 @@
     text-decoration: none;
     font-family: 'Nunito', sans-serif;
     margin-bottom: 10px;
+    pointer-events: none;
 }

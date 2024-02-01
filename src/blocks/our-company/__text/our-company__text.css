@@ -9,4 +9,5 @@
     margin-left: 50px;
     margin-bottom: 106px;
     max-width: 380px;
+    pointer-events: none;
 }

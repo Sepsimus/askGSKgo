@@ -3,5 +3,6 @@
 }
 
 .consultation__link:hover{
+    pointer-events: all;
     cursor: pointer;
 }

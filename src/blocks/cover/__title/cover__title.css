@@ -9,4 +9,5 @@
     text-align: center;
     font-family: 'FuturaNew', sans-serif;
     margin-bottom: 20px;
+    pointer-events: none;
 }
