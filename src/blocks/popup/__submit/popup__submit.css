@@ -14,3 +14,7 @@
     background-color: #4B949E;
     margin-bottom: 30px;
 }
+
+.popup__submit:hover{
+    cursor: pointer;
+}
